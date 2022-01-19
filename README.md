@@ -15,8 +15,8 @@ Alguns conceitos que foram trabalhados:
  * Física (fórmulas de movimento) 
 
 ## Desenvolvedores
- <> Pedro Vinícius
- <> Lucas Gama
+ * Pedro Vinícius
+ * Lucas Gama
 
 ## License
 
