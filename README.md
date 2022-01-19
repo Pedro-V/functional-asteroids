@@ -14,6 +14,10 @@ Alguns conceitos que foram trabalhados:
  * Geometria (principalmente interseccção de duas linhas)
  * Física (fórmulas de movimento) 
 
+## Desenvolvedores
+ <> Pedro Vinícius
+ <> Lucas Gama
+
 ## License
 
                 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
