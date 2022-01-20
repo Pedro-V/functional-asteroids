@@ -7,11 +7,11 @@ Nave 1 se movimenta clicando nas setas esquerda e direita, acelera com a seta pa
 
 Nave 2 se movimenta clicando no A e D, acelera com o W e atira com o S
 
-## Conceitos de Haskell
+## Conceitos
 Alguns conceitos que foram trabalhados:
  * Notação de registro
  * Generalização e composição de funções
- * Geometria (principalmente interseccção de duas linhas)
+ * Geometria (principalmente intersecção de duas linhas)
  * Física (fórmulas de movimento) 
 
 ## Desenvolvedores
