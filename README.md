@@ -1,6 +1,8 @@
 # naves-codeworld
 Um jogo que envolve duas Naves no espaço, escrito em Haskell e utilizando CodeWorld.
+
 Olha o link aí! -> https://code.world/run.html?mode=haskell&dhash=D2FIZM7ESJpIZZfkgjwIxLA
+
 Você também pode replicar/alterar o código no [site do CodeWorld](https://code.world/haskell#).
 
 ## Controles
