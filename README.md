@@ -10,6 +10,8 @@ Nave 1 se movimenta clicando nas setas esquerda e direita, acelera com a seta pa
 
 Nave 2 se movimenta clicando no A e D, acelera com o W e atira com o S
 
+Uma nave morre se atingir um asteroide, uma outra nave ou for atingida por mais de 10 tiros.
+
 ## Conceitos
 Alguns conceitos que foram trabalhados:
  * Notação de registro
